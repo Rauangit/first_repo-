@@ -43,3 +43,12 @@ git push origin bugfix
 git switch main
 git merge bugfix
 git push origin main
+
+ex 6
+touch .gitignore
+открыл при помощи вижуал и внутри написал 
+*.log
+
+git add .gitignore
+git commit -m "add: gitignore
+git push origin main
