@@ -30,3 +30,6 @@ git switch main
 git merge feature 
 
 git push origin main
+
+ex 5 
+изминения для пуша 
