@@ -32,4 +32,4 @@ git merge feature
 git push origin main
 
 ex 5 
-изминения для пуша 
+изминения для пуша  1111 
