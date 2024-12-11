@@ -13,3 +13,13 @@ git commit -m "add: file1"
 git branch -M main
 git remote add origin git@github.com:Rauangit/ioi.git
 git push -u origin main
+
+ex 3 
+git switch -c feature
+
+touch file2.txt
+
+git add file2.txt
+git commit -m "add: file2.txt"
+
+git push origin feature
