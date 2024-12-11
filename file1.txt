@@ -23,3 +23,10 @@ git add file2.txt
 git commit -m "add: file2.txt"
 
 git push origin feature
+
+ex 4 
+git switch main
+
+git merge feature 
+
+git push origin main
